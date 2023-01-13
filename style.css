@@ -1,0 +1,35 @@
+.index{
+    background-color: rosybrown;
+    font-family: papyrus, copperplate, fantasy;
+}
+.bbr{
+    background-color: yellowgreen;
+    font-family: papyrus, copperplate, fantasy;
+}
+.mb {background-color: burlywood;
+    font-family: papyrus, copperplate, fantasy;}
+
+.quiche {background-color: orange;
+    font-family: papyrus, copperplate, fantasy;}
+    
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
+h1{
+    color:whitesmoke;
+    text-align: center;
+    font-size: 78px;
+    text-decoration: underline;
+}
+h2 {
+    font-weight:900;
+    text-decoration: underline;
+}
+a {
+    color:whitesmoke;
+    font-size: 30px;
+
+}
